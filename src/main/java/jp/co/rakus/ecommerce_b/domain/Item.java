@@ -1,7 +1,9 @@
 package jp.co.rakus.ecommerce_b.domain;
 
 /**
- * @author akihiko.yahiro (Item)商品ドメイン
+ * 商品のドメイン
+ * 
+ * @author akihiko.yahiro 
  */
 public class Item {
 

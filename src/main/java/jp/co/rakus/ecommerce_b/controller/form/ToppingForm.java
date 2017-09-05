@@ -1,8 +1,10 @@
 package jp.co.rakus.ecommerce_b.controller.form;
 
 /**
+ *  トッピングのフォーム
+ *  
  * @author akihiko.yahiro
- *トッピングフォーム
+ * 
  */
 public class ToppingForm {
 	

@@ -1,7 +1,10 @@
 package jp.co.rakus.ecommerce_b.controller.form;
 
 /**
- * @author akihiko.yahiro (Item)商品フォーム
+ * 商品のフォーム
+ * 
+ * @author akihiko.yahiro 
+ * 
  */
 public class ItemForm {
 

@@ -1,5 +1,11 @@
 package jp.co.rakus.ecommerce_b.domain;
 
+/**
+ * トッピングのドメイン
+ * 
+ * @author yahiro
+ *
+ */
 public class Topping {
 
 	/**トッピングのid*/
