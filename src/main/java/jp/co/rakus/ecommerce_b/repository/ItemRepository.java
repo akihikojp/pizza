@@ -36,7 +36,7 @@ public class ItemRepository {
 	 * @return 全商品を格納したList<item>
 	 */
 	public List<Item> findAll(){
-		String sql = "select id, name, description, price_m, price_l, image_path, deleted from items";
+		String sql = "select id, name, description, price_m, price_l, image_path, deleted from items order by id";
 		return template.query(sql, itemRowMapper);
 	}
 	
